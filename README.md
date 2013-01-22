@@ -267,7 +267,7 @@ Values for a given key can be given in one of three ways. Using `+setOptionValue
 	[AFPhotoEditorCustomization setOptionValue:[UIColor redColor] forKey:@"editor.accentColor"]; // sets the global accent color to red
 	[AFPhotoEditorCustomization setOptionValueWithBlock:^{return [UIColor blueColor];} forKey:@"editor.tool.crop.accentColor"]; // sets the crop tool's accent color to blue
 	[AFPhotoEditorCustomization setOptionWithImageNamed:@"enhanceIcon.png" forKey:@"editor.tool.enhance.icon"]; // sets the enhance tool's icon
-	[AFPhotoEditorCustomization removeOptionValueForKey:@"editor.too.crop.accentColor"]; // Removes the crop tool specific accent color
+	[AFPhotoEditorCustomization removeOptionValueForKey:@"editor.tool.crop.accentColor"]; // Removes the crop tool specific accent color
 	
 Values for a given option are required to be of a specific type. The requirements for each option are enumerated in the list of keys below. If the value provided for a given key do not meet the requirements, it has no effect.
 
@@ -283,56 +283,20 @@ In addition to defining the scope of a key's effect, the key path also defines t
                 <p>No type restrictions. This key sets the background color of the editor's navigation bar cancel button</p>
             </li>
             <li>
-                <p><code>UIImage *applyButtonBackgroundImage</code></p>
-                <p>No type restrictions. This key sets the background image of the editor's navigation bar apply button.</p>
-            </li>
-            <li>
-                <p><code>UIColor *backButtonStrokeColor</code></p>
-                <p>A non-pattern image <code>UIColor</code>. This key sets the stroke color of the editor's navigation bar back button.</p>
-            </li>
-            <li>
-                <p><code>UIImage *cancelButtonBackgroundImage</code></p>
-                <p>No type restrictions. This key sets the background image of the editor's navigation bar cancel button.</p>
-            </li>
-            <li>
                 <p><code>UIColor *navigationBarBackgroundColor</code></p>
                 <p>No type restrictions. This key sets the background color of the editor's navigation bar.</p>
-            </li>
-            <li>
-                <p><code>UIColor *applyButtonStrokeColor</code></p>
-                <p>A non-pattern image <code>UIColor</code>. This key sets the stroke color of the editor's navigation bar apply button.</p>
-            </li>
-            <li>
-                <p><code>UIImage *backButtonForegroundImage</code></p>
-                <p>No type restrictions. This key sets the foreground image of the editor's navigation bar back button.</p>
             </li>
             <li>
                 <p><code>UIColor *navigationBarCancelTextColor</code></p>
                 <p>No type restrictions. This key sets the text color of the editor's navigation bar cancel button.</p>
             </li>
             <li>
-                <p><code>UIImage *navigationBarBackgroundImage</code></p>
-                <p>No type restrictions. This key sets the background image of the editor's navigation bar.</p>
-            </li>
-            <li>
                 <p><code>UIColor *accentColor</code></p>
                 <p>No type restrictions. This key sets the accent color of the tool views.</p>
             </li>
             <li>
-                <p><code>UIImage *backButtonBackgroundImage</code></p>
-                <p>No type restrictions. This key sets the background image of the editor's navigation bar cancel button.</p>
-            </li>
-            <li>
                 <p><code>UIColor *backgroundColor</code></p>
                 <p>No type restrictions. This key sets the background color of the tool views.</p>
-            </li>
-            <li>
-                <p><code>UIImage *bottomBarBackgroundImage</code></p>
-                <p>No type restrictions. This key sets the background image of the editor's bottom bar.</p>
-            </li>
-            <li>
-                <p><code>UIColor *cancelButtonStrokeColor</code></p>
-                <p>No type restrictions. This key sets the stroke color of the editor's navigation bar cancel button.</p>
             </li>
             <li>
                 <p><code>UIColor *navigationBarTextColor</code></p>
@@ -344,10 +308,6 @@ In addition to defining the scope of a key's effect, the key path also defines t
         <h4>Non-inheritable</h4>
         <ul>
             <li>
-                <p><code>NSNumber *enableIAP</code></p>
-                <p>An <code>NSNumber</code> represeting a <code>BOOL</code> value. Setting this key to <code>YES</code> enables In-App Purchases in the editor. Defaults to <code>NO</code></p>
-            </li>
-            <li>
                 <p><code>UIColor *bottomBarButtonTextColor</code></p>
                 <p>No type restrictions. This key sets the color of the text of the tool names in the editor's bottom bar.</p>
             </li>
@@ -358,10 +318,6 @@ In addition to defining the scope of a key's effect, the key path also defines t
             <li>
                 <p><code>UIColor *canvasColor</code></p>
                 <p>No type restrictions. This key sets the background color behind the photo being editted in the editor.</p>
-            </li>
-            <li>
-                <p><code>UIColor *restoreButtonColor</code></p>
-                <p>No type restrictions. This key sets the background color of the editor's In-App Purchase Restore button.</p>
             </li>
             <li>
                 <p><code>UIColor *pageControlUnselectedColor</code></p>
@@ -384,80 +340,8 @@ In addition to defining the scope of a key's effect, the key path also defines t
                 <p>A non-pattern image <code>UIColor</code>. This key sets the color of each of the tool icons in the editor's bottom bar.</p>
             </li>
             <li>
-                <p><code>UIColor *restoreButtonTextColor</code></p>
-                <p>No type restrictions. This key sets the text color of the editor's In-App Purchase Restore button.</p>
-            </li>
-            <li>
                 <p><code>NSArray *supportedOrientations</code></p>
                 <p>An <code>NSArray</code> containing <code>NSNumbers</code> each represening a valid /UIInterfaceOrientation</code>. This key sets the user interface orienations that the editor will support.</p>
-            </li>
-        </ul>
-    </li>
-</ul>
-<h3>editor.tool.brush</h3>
-<ul>
-    <li>
-        <h4>Inheritable</h4>
-        <ul>
-            <li>
-                <p><code>NSNumber *defaultSizeIndex</code></p>
-                <p>An <code>NSNumber</code> representing a non-negative integer less than the number of available options. This key is used to set the default brush size when a brush tool is launched. The value provided for this tool is the index of the desired default brush size.</p>
-            </li>
-            <li>
-                <p><code>NSArray *brushSizes</code></p>
-                <p>An <code>NSArray</code> containing <code>NSNumbers</code> representing <code>Float</code> values greater than or equal to 5.0 and less than or equal to 80.0. This key sets the set of brush sizes available to the user.</p>
-            </li>
-        </ul>
-    </li>
-</ul>
-<h3>editor.tool.brush.blemish</h3>
-<ul>
-    <li>
-        <h4>Non-inheritable</h4>
-        <ul>
-            <li>
-                <p><code>UIImage *icon</code></p>
-                <p>No type restrictions. This key sets the tool's icon in the editor's home bottom bar.</p>
-            </li>
-        </ul>
-    </li>
-</ul>
-<h3>editor.tool.brush.draw</h3>
-<ul>
-    <li>
-        <h4>Non-inheritable</h4>
-        <ul>
-            <li>
-                <p><code>NSArray *colors</code></p>
-                <p>An <code>NSArray</code> containing non-pattern image <code>UIColors</code>. This key sets the set of drawing colors that is presented to the user.</p>
-            </li>
-            <li>
-                <p><code>UIImage *icon</code></p>
-                <p>No type restrictions. This key sets the tool's icon in the editor's home bottom bar.</p>
-            </li>
-        </ul>
-    </li>
-</ul>
-<h3>editor.tool.brush.redeye</h3>
-<ul>
-    <li>
-        <h4>Non-inheritable</h4>
-        <ul>
-            <li>
-                <p><code>UIImage *icon</code></p>
-                <p>No type restrictions. This key sets the tool's icon in the editor's home bottom bar.</p>
-            </li>
-        </ul>
-    </li>
-</ul>
-<h3>editor.tool.brush.whiten</h3>
-<ul>
-    <li>
-        <h4>Non-inheritable</h4>
-        <ul>
-            <li>
-                <p><code>UIImage *icon</code></p>
-                <p>No type restrictions. This key sets the tool's icon in the editor's home bottom bar.</p>
             </li>
         </ul>
     </li>
@@ -486,154 +370,6 @@ In addition to defining the scope of a key's effect, the key path also defines t
             <li>
                 <p><code>NSNumber *enableCustom</code></p>
                 <p>An <code>NSNumber</code> represeting a <code>BOOL</code> value. Setting this key to <code>NO</code> will disable the <code>Original</code> crop preset. Defaults to <code>YES</code>. The <code>Custom</code> crop preset does not contrain the crop area to any specific aspect ratio.</p>
-            </li>
-            <li>
-                <p><code>UIImage *icon</code></p>
-                <p>No type restrictions. This key sets the tool's icon in the editor's home bottom bar.</p>
-            </li>
-        </ul>
-    </li>
-</ul>
-<h3>editor.tool.effects</h3>
-<ul>
-    <li>
-        <h4>Non-inheritable</h4>
-        <ul>
-            <li>
-                <p><code>UIImage *icon</code></p>
-                <p>No type restrictions. This key sets the tool's icon in the editor's home bottom bar.</p>
-            </li>
-        </ul>
-    </li>
-</ul>
-<h3>editor.tool.enhance</h3>
-<ul>
-    <li>
-        <h4>Non-inheritable</h4>
-        <ul>
-            <li>
-                <p><code>UIImage *icon</code></p>
-                <p>No type restrictions. This key sets the tool's icon in the editor's home bottom bar.</p>
-            </li>
-        </ul>
-    </li>
-</ul>
-<h3>editor.tool.meme</h3>
-<ul>
-    <li>
-        <h4>Non-inheritable</h4>
-        <ul>
-            <li>
-                <p><code>UIImage *icon</code></p>
-                <p>No type restrictions. This key sets the tool's icon in the editor's home bottom bar.</p>
-            </li>
-        </ul>
-    </li>
-</ul>
-<h3>editor.tool.orientation</h3>
-<ul>
-    <li>
-        <h4>Non-inheritable</h4>
-        <ul>
-            <li>
-                <p><code>UIImage *icon</code></p>
-                <p>No type restrictions. This key sets the tool's icon in the editor's home bottom bar.</p>
-            </li>
-        </ul>
-    </li>
-</ul>
-<h3>editor.tool.stickers</h3>
-<ul>
-    <li>
-        <h4>Non-inheritable</h4>
-        <ul>
-            <li>
-                <p><code>UIImage *icon</code></p>
-                <p>No type restrictions. This key sets the tool's icon in the editor's home bottom bar.</p>
-            </li>
-        </ul>
-    </li>
-</ul>
-<h3>editor.tool.text</h3>
-<ul>
-    <li>
-        <h4>Non-inheritable</h4>
-        <ul>
-            <li>
-                <p><code>NSDictionary *colors</code></p>
-                <p>An <code>NSDictionary</code> containing two keys, <code>kAFTextBorderColors</code> and <code>kAFTextFillColors</code>. The values for each key must be an <code>NSArray</code> containing an equal number of non-patter image <code>UIColors</code>. This key sets the set of text color options that is presented to the user.</p>
-            </li>
-            <li>
-                <p><code>UIImage *icon</code></p>
-                <p>No type restrictions. This key sets the tool's icon in the editor's home bottom bar.</p>
-            </li>
-        </ul>
-    </li>
-</ul>
-<h3>editor.tool.wheel</h3>
-<ul>
-    <li>
-        <h4>Inheritable</h4>
-        <ul>
-            <li>
-                <p><code>NSNumber *useSlider</code></p>
-                <p>An <code>NSNumber</code> represeting a <code>BOOL</code> value. Setting this key to <code>YES</code> will disable the wheel control and use a <code>UISlider</code> to control the strength of the tool. Defaults to <code>NO</code>.</p>
-            </li>
-            <li>
-                <p><code>UIColor *minSliderTint</code></p>
-                <p>A non-pattern image <code>UIColor</code>. If <code>useSlider</code> is set to <code>YES</code> then this key will set the color of the portion of the slider control to the left of the knob.</p>
-            </li>
-            <li>
-                <p><code>UIColor *maxSliderTint</code></p>
-                <p>A non-pattern image <code>UIColor</code>. If <code>useSlider</code> is set to <code>YES</code> then this key will set the color of the portion of the slider control to the right of the knob.</p>
-            </li>
-        </ul>
-    </li>
-</ul>
-<h3>editor.tool.wheel.brightness</h3>
-<ul>
-    <li>
-        <h4>Non-inheritable</h4>
-        <ul>
-            <li>
-                <p><code>UIImage *icon</code></p>
-                <p>No type restrictions. This key sets the tool's icon in the editor's home bottom bar.</p>
-            </li>
-        </ul>
-    </li>
-</ul>
-<h3>editor.tool.wheel.contrast</h3>
-<ul>
-    <li>
-        <h4>Non-inheritable</h4>
-        <ul>
-            <li>
-                <p><code>UIImage *icon</code></p>
-                <p>No type restrictions. This key sets the tool's icon in the editor's home bottom bar.</p>
-            </li>
-        </ul>
-    </li>
-</ul>
-<h3>editor.tool.wheel.saturation</h3>
-<ul>
-    <li>
-        <h4>Non-inheritable</h4>
-        <ul>
-            <li>
-                <p><code>UIImage *icon</code></p>
-                <p>No type restrictions. This key sets the tool's icon in the editor's home bottom bar.</p>
-            </li>
-        </ul>
-    </li>
-</ul>
-<h3>editor.tool.wheel.sharpness</h3>
-<ul>
-    <li>
-        <h4>Non-inheritable</h4>
-        <ul>
-            <li>
-                <p><code>UIImage *icon</code></p>
-                <p>No type restrictions. This key sets the tool's icon in the editor's home bottom bar.</p>
             </li>
         </ul>
     </li>

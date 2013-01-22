@@ -2,6 +2,23 @@
 
 Subscribe to updates: [RSS](https://github.com/AviaryInc/Mobile-Feather-SDK-for-iOS/commits/master.atom) | [Twitter](http://twitter.com/aviarychangelog)
 
+## Version 2.5.5 - November 16, 2012
+
+* Fixed a potential crash in some apps caused by the Meme tool
+* Fixed customization API validation for boxed booleans
+* Fixed typo in customization docs
+
+---
+
+## Version 2.5.4 - November 12, 2012
+
+* Fixed missing translation for "Enter text here" in the Text tool
+* Fixed an issue in the Whiten tool causing it to turn images black
+* Fixed editor.bottomBarButtonIconColor in iOS 4.3
+* Added "Next" as a right navigation button text preset option
+
+---
+
 ## Version 2.5.3 - November 1, 2012
 
 * Fixed an issue causing a crash when pressing the Done button before the image loads
