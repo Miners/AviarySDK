@@ -2,6 +2,42 @@
 
 Subscribe to updates: [RSS](https://github.com/AviaryInc/Mobile-Feather-SDK-for-iOS/commits/master.atom) | [Twitter](http://twitter.com/aviarychangelog)
 
+## Version 2.6.0 - January 28, 2013
+
+IMPORTANT: Starting with v2.6.0 the Aviary iOS SDK will no longer support iOS 4.3. If your app supports iOS 4.3, you should not update to v2.6.0 as it may result in crashes for your iOS 4.3 users.
+
+*Overhauled Effects and Stickers tools with completely redesigned UI
+*Updated default effects: effects are now more subtle and generally usable, based on your feedback
+*Added brand new Frames Tool
+*Improved the Text and Meme tools to support multiple lines
+*Improved performance
+*Due to lack of partner demand, we’ve removed support for landscape mode on the iPhone and iPod Touch for this release. If your integration relies on landscape mode, we suggest you do not update to this version and contact us to discuss your options.
+
+---
+
+## Version 2.5.8 - January 22, 2013
+
+IMPORTANT: v2.5.8 is the last version of the Aviary iOS SDK which will support iOS 4.3+. Every new release starting with the upcoming v2.6 will require iOS 5.0+. If your app supports iOS 4.3, you should not update to v2.6+ as it may result in crashes for your iOS 4.3 users.
+
+* iOS 4 bug fixes
+
+---
+
+## Version 2.5.7 - January 18, 2013
+
+* iOS 4 bug fixes
+
+---
+
+## Version 2.5.6 - January 2, 2013
+
+* iOS 4 bug fixes, including a crash in the text tool
+* Fixed a bug preventing RTL languages (Hebrew, Arabic) from working properly in the text tool
+* Fixed some Meme tool bugs related to very small images
+* New customization option: remove shadows from toolbar buttons (Premium partners only)
+
+---
+
 ## Version 2.5.5 - November 16, 2012
 
 * Fixed a potential crash in some apps caused by the Meme tool

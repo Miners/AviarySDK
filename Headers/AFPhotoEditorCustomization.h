@@ -34,6 +34,7 @@ extern NSString *const kAFRedeye;      /* Redeye */
 extern NSString *const kAFWhiten;      /* Whiten */
 extern NSString *const kAFBlemish;     /* Blemish */
 extern NSString *const kAFMeme;        /* Meme */
+extern NSString *const kAFFrames;       /* Frames */
 
 /**
  Use this key to define the interface orientations you want to allow in
@@ -71,11 +72,47 @@ extern NSString *const kAFTextFillColors;   /* Text Tool Text Fill Colors */
 
 /** @} */
 
+
+/**
+ This class provides a powerful interface for configuring an AFPhotoEditorController's appearance. While setting and removing option values after presenting an AFPhotoEditorController instance is possible, it is strongly recommended that you make all necessary calls to AFPhotoEditorCustomization *before* editor presentation. For a full list of keys and a more detailed explanation, please see the Aviary iOS SDK Customization Guide.
+ */
 @interface AFPhotoEditorCustomization : NSObject
 
+/**
+ Sets the value for key to obj.
+ 
+ @param obj The object.
+ @param key The key whose value should be set.
+ */
 + (void)setOptionValue:(id)obj forKey:(NSString *)key;
+
+/**
+ Sets the value for key to the object returned by block.
+ 
+ The block is lazily evaluated, making it useful for specifying options with values that require loading information from disk.
+  
+ @param block The block that returns the object that key will be set to.
+ @param key The key whose value should be set.
+ */
 + (void)setOptionValueWithBlock:(id (^)(void))block forKey:(NSString *)key;
+
+/**
+ Sets the value for key to the UIImage named name. 
+ 
+ A convenience method that lazily sets the value of the key to the image with the name provided. This method uses UIImage's imageNamed: class method to create the image. Thus, if the image doesn't exist, the value for key will be set to nil.
+ 
+ @param name The name of the image.
+ @param key The key whose value should be set.
+ */
 + (void)setOptionWithImageNamed:(NSString *)name forKey:(NSString *)key;
+
+/**
+ Removes the value for a given key.
+ 
+ The view elements described by the key will be assume their default appearances.
+ 
+ @param key The key whose value should be removed.
+ */
 + (void)removeOptionValueForKey:(NSString *)key;
 
 @end
