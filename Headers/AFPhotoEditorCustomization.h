@@ -62,6 +62,7 @@ extern NSString *const kAFLeftNavigationTitlePresetExit;   /* Exit */
 extern NSString *const kAFRightNavigationTitlePresetDone;  /* Done */
 extern NSString *const kAFRightNavigationTitlePresetSave;  /* Save */
 extern NSString *const kAFRightNavigationTitlePresetNext;  /* Next */
+extern NSString *const kAFRightNavigationTitlePresetSend;  /* Send */
 
 extern NSString *const kAFCropPresetName;   /* Name */
 extern NSString *const kAFCropPresetWidth;  /* Width */
