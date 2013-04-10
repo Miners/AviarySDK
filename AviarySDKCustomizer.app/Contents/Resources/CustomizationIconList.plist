@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>brightness</string>
+	<string>contrast</string>
+	<string>crop</string>
+	<string>draw</string>
+	<string>effects</string>
+	<string>enhance</string>
+	<string>frames</string>
+	<string>orientation</string>
+	<string>redeye</string>
+	<string>sharpness</string>
+	<string>stickers</string>
+	<string>whiten</string>
+	<string>text</string>
+	<string>saturation</string>
+	<string>meme</string>
+	<string>blemish</string>
+	<string>flip_h</string>
+	<string>flip_v</string>
+	<string>rotate_l</string>
+	<string>rotate_r</string>
+	<string>2</string>
+	<string>5</string>
+	<string>10</string>
+	<string>15</string>
+	<string>25</string>
+	<string>50</string>
+	<string>eraser</string>
+	<string>zoom</string>
+	<string>focus</string>
+	<string>warmth</string>
+	<string>close</string>
+	<string>colorfix</string>
+	<string>hidef</string>
+	<string>illuminate</string>
+	<string>focus_linear</string>
+	<string>focus_radial</string>
+	<string>invert</string>
+	<string>feedback</string>
+</array>
+</plist>
