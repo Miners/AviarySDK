@@ -86,6 +86,34 @@
 		<key>hex</key>
 		<string>#000000</string>
 	</dict>
+	<key>cameraIconGradientBottomColor</key>
+	<dict>
+		<key>alpha</key>
+		<real>1</real>
+		<key>hex</key>
+		<string>#bbcedf</string>
+	</dict>
+	<key>cameraIconGradientTopColor</key>
+	<dict>
+		<key>alpha</key>
+		<real>1</real>
+		<key>hex</key>
+		<string>#e8eef4</string>
+	</dict>
+	<key>cameraIconInnerStrokeColor</key>
+	<dict>
+		<key>alpha</key>
+		<real>0.75</real>
+		<key>hex</key>
+		<string>#ffffff</string>
+	</dict>
+	<key>cameraIconOuterStrokeColor</key>
+	<dict>
+		<key>alpha</key>
+		<real>1</real>
+		<key>hex</key>
+		<string>#000000</string>
+	</dict>
 	<key>cancelButtonColor</key>
 	<dict>
 		<key>alpha</key>
@@ -117,7 +145,7 @@
 	<key>cancelButtonInnerShadowColor</key>
 	<dict>
 		<key>alpha</key>
-		<real>0.40000000596046448</real>
+		<real>0.40000000600000002</real>
 		<key>hex</key>
 		<string>#ffffff</string>
 	</dict>
@@ -170,6 +198,32 @@
 		<key>hex</key>
 		<string>#000000</string>
 	</dict>
+	<key>galleryAlbumNameTextColor</key>
+	<dict>
+		<key>alpha</key>
+		<real>1</real>
+		<key>hex</key>
+		<string>#ffffff</string>
+	</dict>
+	<key>galleryAlbumNameTextShadowColor</key>
+	<dict>
+		<key>alpha</key>
+		<real>1</real>
+		<key>hex</key>
+		<string>#000000</string>
+	</dict>
+	<key>galleryListArrowCore</key>
+	<false/>
+	<key>galleryListArrowInnerStroke</key>
+	<false/>
+	<key>galleryListArrowOuterStroke</key>
+	<false/>
+	<key>galleryListCore</key>
+	<false/>
+	<key>galleryListInnerStroke</key>
+	<false/>
+	<key>galleryListOuterStroke</key>
+	<false/>
 	<key>handleBezelGradientBottomColor</key>
 	<dict>
 		<key>alpha</key>

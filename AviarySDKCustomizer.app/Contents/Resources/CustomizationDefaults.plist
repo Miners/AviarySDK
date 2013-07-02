@@ -12,7 +12,7 @@
 	<key>accentGradientBottomColor</key>
 	<dict>
 		<key>hex</key>
-		<string>#2c7fd9</string>
+		<string>#1a88ff</string>
 		<key>alpha</key>
 		<string>1.0</string>
 	</dict>
@@ -153,6 +153,48 @@
 	<dict>
 		<key>hex</key>
 		<string>#000000</string>
+		<key>alpha</key>
+		<string>1.0</string>
+	</dict>
+	<key>galleryListCore</key>
+	<dict>
+		<key>hex</key>
+		<string>#303840</string>
+		<key>alpha</key>
+		<string>1.0</string>
+	</dict>
+	<key>galleryListInnerStroke</key>
+	<dict>
+		<key>hex</key>
+		<string>#454c53</string>
+		<key>alpha</key>
+		<string>1.0</string>
+	</dict>
+	<key>galleryListOuterStroke</key>
+	<dict>
+		<key>hex</key>
+		<string>#000000</string>
+		<key>alpha</key>
+		<string>1.0</string>
+	</dict>
+	<key>galleryListArrowCore</key>
+	<dict>
+		<key>hex</key>
+		<string>#18191D</string>
+		<key>alpha</key>
+		<string>1.0</string>
+	</dict>
+	<key>galleryListArrowInnerStroke</key>
+	<dict>
+		<key>hex</key>
+		<string>#000000</string>
+		<key>alpha</key>
+		<string>1.0</string>
+	</dict>
+	<key>galleryListArrowOuterStroke</key>
+	<dict>
+		<key>hex</key>
+		<string>#2F353C</string>
 		<key>alpha</key>
 		<string>1.0</string>
 	</dict>

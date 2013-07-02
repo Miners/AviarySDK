@@ -2,16 +2,40 @@
 
 Subscribe to updates: [RSS](https://github.com/AviaryInc/Mobile-Feather-SDK-for-iOS/commits/master.atom) | [Twitter](http://twitter.com/aviarychangelog)
 
-## Version 2.6.0 - January 28, 2013
-
+## Version 3.1.1 - June 13, 2013
 IMPORTANT: The Aviary iOS SDK will no longer be distributed via GitHub, please visit http://www.aviary.com/ios to download the latest version. Starting with v2.6.0 the Aviary iOS SDK will no longer support iOS 4.3. If your app supports iOS 4.3, you should not update to v2.6.0 as it may result in crashes for your iOS 4.3 users. Release v2.5.8 is the last version to support iOS 4.3. Please contact us if you need a copy.
 
-*Overhauled Effects and Stickers tools with completely redesigned UI
-*Updated default effects: effects are now more subtle and generally usable, based on your feedback
-*Added brand new Frames Tool
-*Improved the Text and Meme tools to support multiple lines
-*Improved performance
-*Due to lack of partner demand, we’ve removed support for landscape mode on the iPhone and iPod Touch for this release. If your integration relies on landscape mode, we suggest you do not update to this version and contact us to discuss your options.
+* New Adjust tool - Combines Brightness, Contrast, Saturation and Warmth into one easy to use tool.
+* Splash tool - Strips out color, then lets you selectively add it back into your photo.
+* Content Badges for PCN partners.
+* Bug fixes and performance improvements.
+
+---
+
+## Version 3.0.0 - April 24, 2013
+
+* Removes all references to UDIDs - We've updated our Localytics analytics library to the most recent version to comply with new App Store guidelines. After May 1st, Apple will reject all apps that make reference to UDIDs. For more information, please see this post on Localytics' blog: http://www.localytics.com/blog/2013/apple-ios-udid-banned/
+* Sleek, Streamlined Interface with Improved Customization 
+* New Focus Tool - Draws attention to the subject of your photo by defining the photo's focal point.
+* New Warmth Tool - Adjusts the photo's color balance
+* Improved Enhance Tool - Hi-Def enhance smartly sharpens and adjusts contrast, Illuminate improves poor-lighting, and we've renamed Balance to Color Fix
+* Instant Editor Load - Actual editor load time has been drastically reduced due to improved interface rendering
+* Reduced Bundle Size - Halved the weight of the SDK's asset bundle
+* Less Memory Consumption for High Resolution Editing
+* New Interface Customizer - Dedicated Mac App that makes interface customization drastically simpler to understand.
+* Bug Fixes
+* Stability Improvements
+
+---
+
+## Version 2.6.0 - January 28, 2013
+
+* Overhauled Effects and Stickers tools with completely redesigned UI
+* Updated default effects: effects are now more subtle and generally usable, based on your feedback
+* Added brand new Frames Tool
+* Improved the Text and Meme tools to support multiple lines
+* Improved performance
+* Due to lack of partner demand, we’ve removed support for landscape mode on the iPhone and iPod Touch for this release. If your integration relies on landscape mode, we suggest you do not update to this version and contact us to discuss your options.
 
 ---
 

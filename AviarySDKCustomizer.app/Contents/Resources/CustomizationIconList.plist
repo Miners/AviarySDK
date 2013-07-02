@@ -2,8 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-	<string>brightness</string>
-	<string>contrast</string>
+	<string>adj_brightness</string>
+	<string>adj_contrast</string>
 	<string>crop</string>
 	<string>draw</string>
 	<string>effects</string>
@@ -15,7 +15,7 @@
 	<string>stickers</string>
 	<string>whiten</string>
 	<string>text</string>
-	<string>saturation</string>
+	<string>adj_saturation</string>
 	<string>meme</string>
 	<string>blemish</string>
 	<string>flip_h</string>
@@ -31,7 +31,7 @@
 	<string>eraser</string>
 	<string>zoom</string>
 	<string>focus</string>
-	<string>warmth</string>
+	<string>adj_warmth</string>
 	<string>close</string>
 	<string>colorfix</string>
 	<string>hidef</string>
@@ -40,5 +40,10 @@
 	<string>focus_radial</string>
 	<string>invert</string>
 	<string>feedback</string>
+	<string>splash</string>
+	<string>splash_eraser</string>
+	<string>splash_smart</string>
+	<string>splash_free</string>
+	<string>adjustments</string>
 </array>
 </plist>

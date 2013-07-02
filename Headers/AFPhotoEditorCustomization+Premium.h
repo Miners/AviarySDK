@@ -62,11 +62,25 @@ typedef enum{
 + (void)setApplyButtonBackgroundImage:(UIImage*)image;
 
 /**
+ Sets the apply button's active state background image.
+ 
+ @param image The image to use
+ */
++ (void)setActiveApplyButtonBackgroundImage:(UIImage*)image;
+
+/**
  Sets the cancel button background image.
  
  @param image The image to use
  */
 + (void)setCancelButtonBackgroundImage:(UIImage*)image;
+
+/**
+ Sets the cancel button's active state background image.
+ 
+ @param image The image to use
+ */
++ (void)setActiveCancelButtonBackgroundImage:(UIImage*)image;
 
 /**
  Sets the back button's background image.
@@ -76,10 +90,11 @@ typedef enum{
 + (void)setBackButtonBackgroundImage:(UIImage*)image;
 
 /**
- Sets the back button's foreground image.
+ Sets the back button's active state background image.
  
  @param image The image to use
  */
-+ (void)setBackButtonForegroundImage:(UIImage*)image;
+
++ (void)setActiveBackButtonBackgroundImage:(UIImage*)image;
 
 @end

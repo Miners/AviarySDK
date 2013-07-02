@@ -22,4 +22,15 @@
  */
 + (void)setUseHashedUDIDForAnalytics:(BOOL)use;
 
+/**
+ Initialize the photo editor controller with an image. The editor will quick launch into
+ the specified tool when presented. Currently, only Effects is supported. This method will return
+ nil if any other key is passed in.
+ 
+ @param image The image to edit.
+ @param quickLaunchKey The tool to quick launch into.
+ */
+- (id)initWithImage:(UIImage *)image quickLaunchTool:(NSString *)quickLaunchKey;
+
+
 @end
