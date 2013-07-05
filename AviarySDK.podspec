@@ -18,10 +18,9 @@ Pod::Spec.new do |s|
   s.resource  = 'AviarySDK/Resources/AviarySDKResources.bundle'
   
   s.frameworks = 'QuartzCore', 'Accelerate', 'StoreKit', 'CoreData', 'CoreText', 'MessageUI', 'OpenGLES', 'SystemConfiguration'
-  s.library   = 'AviarySDKPremium'
 
   s.weak_framework = 'AdSupport'
-  s.libraries   = 'AviarySDK', 'z', 'sqlite3'
+  s.libraries   = 'AviarySDKPremium', 'z', 'sqlite3'
   s.requires_arc = true
   s.xcconfig = { 'OTHER_LDFLAGS' => '-ObjC -all_load', 'LIBRARY_SEARCH_PATHS' => '"$(PODS_ROOT)/AviarySDK/AviarySDK"' }
 end
