@@ -12,10 +12,14 @@ Pod::Spec.new do |s|
   s.author       = { "Aviary, Inc." => "api@aviary.com" }
   s.source       = { :git => 'https://github.com/Miners/AviarySDK.git', :tag => "v#{s.version}" }
   s.platform     = :ios, '5.0'
-  s.source_files = 'AviarySDK/Headers/*'
-  s.resource  = "AviarySDK/Resources/AviarySDKResources.bundle"
-  s.preserve_paths = "AviarySDK/libAviarySDKPremium.a"
+  
+  s.source_files = 'AviarySDK/Headers/*.h'  
+  s.preserve_paths = 'AviarySDK/*.a'
+  s.resource  = 'AviarySDK/Resources/AviarySDKResources.bundle'
+  
   s.frameworks = 'QuartzCore', 'Accelerate', 'StoreKit', 'CoreData', 'CoreText', 'MessageUI', 'OpenGLES', 'SystemConfiguration'
+  s.library   = 'AviarySDKPremium'
+
   s.weak_framework = 'AdSupport'
   s.libraries   = 'AviarySDK', 'z', 'sqlite3'
   s.requires_arc = true
