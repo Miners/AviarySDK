@@ -204,5 +204,19 @@ extern NSString *const kAFTextFillColors;   /* Text Tool Text Fill Colors */
  */
 + (void)setCropToolCellWidth:(float)cropToolCellWidth;
 
+/**
+ This property sets the color of the status bar background on devices running iOS 7
+ 
+ @param statusBarColor The color of the status bar.
+ */
++ (void)setStatusBarBackgroundColor:(UIColor *)statusBarColor;
+
+/**
+ This property sets the UIStatusBarStyle of the Editor
+ 
+ @param statusBarStyle The status bar style to use.
+ */
++ (void)setStatusBarStyle:(UIStatusBarStyle)statusBarStyle;
+
 
 @end

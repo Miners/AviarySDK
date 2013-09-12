@@ -40,6 +40,13 @@ extern NSString *const kAFPhotoEditorEffectsIAPEnabledKey;
  */
 + (id<AFInAppPurchaseManager>)inAppPurchaseManager;
 
+
+/**
+    This method is used to force the SDK to begin downloading content from the Aviary
+    Content Delivery System and register purchasable content packs with Apple.
+ */
++ (void)fetchContent;
+
 @end
 
 

@@ -2,6 +2,41 @@
 
 Subscribe to updates: [RSS](https://github.com/AviaryInc/Mobile-Feather-SDK-for-iOS/commits/master.atom) | [Twitter](http://twitter.com/aviarychangelog)
 
+## Version 3.3.0 - September 11, 2013
+
+* Compatible with iOS 7: this build compiles properly for iOS 7 and resolves some display issues. Included in the SDK zip is a customizer guide which provides some tips on using our desktop Customizer app to make the Aviary SDK feel more at home in an iOS 7-optimized app. 
+* Numerous performance enhancements
+
+Note : As we collect feedback and observe new patterns in partner apps going forward, we'll be putting  that together to optimize the SDK and release an iOS7-only version of Aviary later this fall. Feel free to get in touch and let us know what you need!
+
+---
+
+## Version 3.1.6 - August 8, 2013
+
+* Updated Headers to include those required for IAPs
+
+---
+
+## Version 3.1.5 - July 29, 2013
+
+* Updated API validation
+* Security.framework now required
+
+---
+
+## Version 3.1.3 - July 22, 2013
+
+* Updated Translations
+
+---
+
+## Version 3.1.2 - July 10, 2013
+
+* Minor Customization Fixes
+* Updated Translations
+
+---
+
 ## Version 3.1.1 - June 13, 2013
 IMPORTANT: The Aviary iOS SDK will no longer be distributed via GitHub, please visit http://www.aviary.com/ios to download the latest version. Starting with v2.6.0 the Aviary iOS SDK will no longer support iOS 4.3. If your app supports iOS 4.3, you should not update to v2.6.0 as it may result in crashes for your iOS 4.3 users. Release v2.5.8 is the last version to support iOS 4.3. Please contact us if you need a copy.
 

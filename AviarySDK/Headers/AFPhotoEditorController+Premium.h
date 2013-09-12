@@ -8,6 +8,9 @@
 
 #import "AFPhotoEditorController.h"
 
+extern NSString * const AFPhotoEditorControllerContentPackAvailabilityNotification;
+extern NSString * const kAFPhotoEditorControllerContentPackAvailabiltyIdenfiter;
+
 @interface AFPhotoEditorController (Premium)
 
 /**
@@ -21,6 +24,14 @@
  @param use BOOL indicating whether the hashed UDID should be used.
  */
 + (void)setUseHashedUDIDForAnalytics:(BOOL)use;
+
+/**
+ Use this method to determine whether a content pack is ready to be quick launched into.
+ 
+ @param identifier The pack's Aviary identifier.
+ @return Whether the pack is available for quick launch.
+ */
++ (BOOL)contentPackAvailableForQuickLaunch:(NSString *)identifier;
 
 /**
  Initialize the photo editor controller with an image. The editor will quick launch into
