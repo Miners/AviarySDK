@@ -2,12 +2,67 @@
 
 Subscribe to updates: [RSS](https://github.com/AviaryInc/Mobile-Feather-SDK-for-iOS/commits/master.atom) | [Twitter](http://twitter.com/aviarychangelog)
 
+## Version 3.3.11 - December 3, 2013
+* Fixed bug with accessing certain content tools.
+
+---
+
+## Version 3.3.9 - November 8, 2013
+* Fixed bug with text tool affecting users with non-English keyboards
+
+---
+
+## Version 3.3.8 - October 25, 2013
+* Updated Japanese Translations
+
+---
+
+## Version 3.3.7 - October 21, 2013
+* Added better support for using the SDK with apps compiled with iOS 6
+
+---
+
+## Version 3.3.6 - October 8, 2013
+* Updated translations
+* Fixed minor bug with Splash tool
+
+---
+
+## Version 3.3.5 - September 24, 2013
+* Updated translations
+
+---
+
+## Version 3.3.4 - September 23, 2013
+* Fixed bug with accessing staging environment of Aviary PCN
+
+---
+
+## Version 3.3.3 - September 20, 2013
+* Updated Japanese translations
+
+---
+
+## Version 3.3.2 - September 17, 2013
+* Fixed bug with customization options
+
+---
+
+## Version 3.3.1 - September 11, 2013
+
+* Compatible with iOS 7: this build compiles properly for iOS 7 and resolves some display issues. Included in the SDK zip is a customizer guide provides some tips on using our desktop Customizer app to create a beautiful iOS7-like "flat design."
+* Fixed Customizer Bug
+
+Note: As we collect feedback and observe new patterns in partner apps going forward, we'll be putting  that together to optimize the SDK and release an iOS7-only version of Aviary later this fall. Feel free to get in touch and let us know what you need!
+
+---
+
 ## Version 3.3.0 - September 11, 2013
 
-* Compatible with iOS 7: this build compiles properly for iOS 7 and resolves some display issues. Included in the SDK zip is a customizer guide which provides some tips on using our desktop Customizer app to make the Aviary SDK feel more at home in an iOS 7-optimized app. 
+* Compatible with iOS 7: this build compiles properly for iOS 7 and resolves some display issues. Included in the SDK zip is a customizer guide provides some tips on using our desktop Customizer app to create a beautiful iOS7-like "flat design."
 * Numerous performance enhancements
 
-Note : As we collect feedback and observe new patterns in partner apps going forward, we'll be putting  that together to optimize the SDK and release an iOS7-only version of Aviary later this fall. Feel free to get in touch and let us know what you need!
+Note: As we collect feedback and observe new patterns in partner apps going forward, we'll be putting  that together to optimize the SDK and release an iOS7-only version of Aviary later this fall. Feel free to get in touch and let us know what you need!
 
 ---
 
