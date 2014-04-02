@@ -13,9 +13,8 @@ Pod::Spec.new do |s|
   s.source       = { :git => 'https://github.com/Miners/AviarySDK.git', :tag => "v#{s.version}" }
   s.platform     = :ios, '5.0'
   
-  s.source_files = 'AviarySDK/AviarySDK.framework/Headers/*.h'  
-  s.preserve_paths = 'AviarySDK/AviarySDK.framework/*.a'
   s.resource  = 'AviarySDK/AviarySDKResources.bundle'
+  s.vendored_frameworks = 'AviarySDK/AviarySDK.framework'
   
   s.frameworks = 'QuartzCore', 'Accelerate', 'StoreKit', 'CoreData', 'CoreText', 'MessageUI', 'OpenGLES', 'SystemConfiguration'
 
