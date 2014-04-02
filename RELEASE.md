@@ -2,6 +2,17 @@
 
 Subscribe to updates: [RSS](https://github.com/AviaryInc/Mobile-Feather-SDK-for-iOS/commits/master.atom) | [Twitter](http://twitter.com/aviarychangelog)
 
+## Version 4.0.0 - March 25, 2014
+* Finally: a brand new, iOS 7-optimized design!
+* 64 bit support
+* Improved, simplified Customizer app
+* Brand new text tool with font support
+* New store layout and design (for those of you with IAPs enabled)
+
+*IMPORTANT:* API key input has changed. Please read the detailed instructions Developer Guide; if you skip this step and your API key is not validated, your users will see an error message when they launch the editor.
+
+___
+
 ## Version 3.3.11 - December 3, 2013
 * Fixed bug with accessing certain content tools.
 
