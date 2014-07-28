@@ -2,9 +2,30 @@
 
 Subscribe to updates: [RSS](https://github.com/AviaryInc/Mobile-Feather-SDK-for-iOS/commits/master.atom) | [Twitter](http://twitter.com/aviarychangelog)
 
+## Version 4.2.0 - July 18, 2014
+* Return of the Meme tool
+* Undo/Redo Support!
+* Tutorials to better explain tool usage to users
+* Editor cancel confirmation alert when the user has unsaved work
+* Support for the en_GB localization
+
+## Version 4.1.1 - July 3, 2014
+* Temporarily removed Meme tool
+
+## Version 4.1.0 - May 30, 2014
+* Improved blemish tool and new blur tools
+* Improved enhance tool
+* Fixed bugs related to IAPs
+
+*IMPORANT:* If your integration has in-app purchases, you must input your API key and Secret before making any calls to `[AFPhotoEditorController inAppPurchaseManager]`.
+
+## Version 4.0.1 - April 10, 2014
+* Minor bug fixes for devices running iOS 6.
+
 ## Version 4.0.0 - March 25, 2014
-* Finally: a brand new, iOS 7-optimized design!
+* Finally: a brand new, optimized design!
 * 64 bit support
+* Reduced bundle size
 * Improved, simplified Customizer app
 * Brand new text tool with font support
 * New store layout and design (for those of you with IAPs enabled)

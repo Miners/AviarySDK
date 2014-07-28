@@ -1,25 +1,20 @@
 Pod::Spec.new do |s|
-  s.name         = "AviarySDK"
-  s.version      = "4.0"
+  s.name         = 'AviarySDK'
+  s.version      = '4.2.0'
   s.summary      = "Aviary's photo editing SDK for iOS."
-  s.homepage     = "http://www.aviary.com/ios"
+  s.homepage     = 'http://developers.aviary.com/docs/ios'
   s.license      = {
-	:type => 'Copyright',
+	:type => 'Commercial',
 	:text => <<-LICENSE
-	  Copyright (c) 2013 Aviary, Inc. All rights reserved.
+	  Copyright (c) 2014 Aviary, Inc. All rights reserved.
 	  LICENSE
   }
-  s.author       = { "Aviary, Inc." => "api@aviary.com" }
-  s.source       = { :git => 'https://github.com/Miners/AviarySDK.git', :tag => "v#{s.version}" }
-  s.platform     = :ios, '5.0'
-  
+  s.author       = { 'Aviary, Inc.' => 'api@aviary.com' }
+  s.source       = { :http => 'http://aviarystatic.s3.amazonaws.com/sdk/ios/4.2.0/Aviary-iOS-SDK.zip' }
+  s.platform     = :ios, '6.0'
   s.resource  = 'AviarySDK/AviarySDKResources.bundle'
-  s.vendored_frameworks = 'AviarySDK/AviarySDK.framework'
-  
-  s.frameworks = 'QuartzCore', 'Accelerate', 'StoreKit', 'CoreData', 'CoreText', 'MessageUI', 'OpenGLES', 'SystemConfiguration'
-
-  s.weak_framework = 'AdSupport'
+  s.vendored_frameworks = 'AviarySDK-4.2.0/AviarySDK/AviarySDK.framework'
+  s.frameworks = 'QuartzCore', 'Accelerate', 'StoreKit', 'CoreData', 'MessageUI', 'OpenGLES'
   s.libraries   = 'z', 'sqlite3'
   s.requires_arc = true
-  s.xcconfig = { 'OTHER_LDFLAGS' => '-ObjC -all_load', 'LIBRARY_SEARCH_PATHS' => '"$(PODS_ROOT)/AviarySDK/AviarySDK"' }
 end
