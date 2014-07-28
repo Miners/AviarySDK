@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   social_media_url      = 'https://twitter.com/Aviary'
   s.source              = { :http => 'http://aviarystatic.s3.amazonaws.com/sdk/ios/4.2.0/Aviary-iOS-SDK.zip' }
   s.platform            = :ios, '6.0'
-  s.resource            = 'AviarySDK-4.2.0/AviarySDKResources.bundle'
+  s.resource            = 'AviarySDK-4.2.0/AviarySDK/AviarySDKResources.bundle'
   s.vendored_frameworks = 'AviarySDK-4.2.0/AviarySDK/AviarySDK.framework'
   s.frameworks          = 'QuartzCore', 'Accelerate', 'StoreKit', 'CoreData', 'MessageUI', 'OpenGLES'
   s.libraries           = 'z', 'sqlite3'
