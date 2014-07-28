@@ -1,0 +1,30 @@
+- Accent
+ - Alpha: 1.0
+ - Color: #F88F33 (248, 143, 51)
+- Canvas
+ - Alpha: 1.0
+ - Color: #F0F0F0 (240, 240, 240)
+- Content
+ - Alpha: 1.0
+ - Color: #F88F33 (248, 143, 51)
+- Handle
+ - Alpha: 1.0
+ - Color: #F88F33 (248, 143, 51)
+- Nav Bar
+ - Alpha: 1.0
+ - Color: #FFFFFF (255, 255, 255)
+- Nav Bar Text
+ - Alpha: 1.0
+ - Color: #333333 (51, 51, 51)
+- Stroke
+ - Alpha: 1.0
+ - Color: #F0F0F0 (240, 240, 240)
+- Tool Bar
+ - Alpha: 1.0
+ - Color: #FFFFFF (255, 255, 255)
+- Badge
+ - Alpha: 1.0
+ - Color: #F88F33 (248, 143, 51)
+- Content Section:
+ - Alpha: 1.0
+ - Color: #F0F0F0 (240, 240, 240)
