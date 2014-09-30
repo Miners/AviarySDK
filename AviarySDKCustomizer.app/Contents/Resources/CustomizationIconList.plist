@@ -5,7 +5,6 @@
 	<string>adjustments</string>
 	<string>asterisk</string>
 	<string>blemish</string>
-	<string>colorfix</string>
 	<string>crop</string>
 	<string>draw</string>
 	<string>effects</string>
@@ -22,7 +21,6 @@
 	<string>get_more_mask</string>
 	<string>get_more</string>
 	<string>hidef</string>
-	<string>illuminate</string>
 	<string>keyboard</string>
 	<string>meme</string>
 	<string>orientation</string>
@@ -39,5 +37,10 @@
 	<string>text</string>
 	<string>whiten</string>
 	<string>feedback</string>
+	<string>effectIntensityCancel</string>
+	<string>scenery</string>
+	<string>food</string>
+	<string>portrait</string>
+	<string>night</string>
 </array>
 </plist>

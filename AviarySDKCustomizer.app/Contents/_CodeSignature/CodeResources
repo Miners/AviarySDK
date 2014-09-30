@@ -6,31 +6,31 @@
 	<dict>
 		<key>Resources/AFColorInputViewController.nib</key>
 		<data>
-		RN0rg1ECRhKfwQy1ZBcZCbOmlEY=
+		/CVKtYR2od9hPNsgE7UpTLMFcyE=
 		</data>
 		<key>Resources/AFEditorPreviewViewController.nib</key>
 		<data>
-		o2aKKT1wo8eC46wHmjCC3uWKcXI=
+		GoeQWrtO7VuGwjnvU3W710rYKOI=
 		</data>
 		<key>Resources/AFEffectsView.nib</key>
 		<data>
-		4lUZDw32Y87oMEyY2osvkLs3n5c=
+		l5jUgPg8I7BuTuXKTKrbraPinUg=
 		</data>
 		<key>Resources/AFExportViewController.nib</key>
 		<data>
-		UQc59cXfXa0+pBWhQ0e8b4Z+q6g=
+		Ra7N07gPsAxHcmeHxiaRtofmRhU=
 		</data>
 		<key>Resources/AFMasterViewController.nib</key>
 		<data>
-		jxr2lzOKXXLoyGtm287sTAJjUaA=
+		7n4fUVAbw87mF59hHqLKwV5xvqg=
 		</data>
 		<key>Resources/AFToolSelectionView.nib</key>
 		<data>
-		ARJn7VOzf2XyN/DhiYusffx3d74=
+		zRt8irtO1sFnS/74oG/OoCb/YO0=
 		</data>
 		<key>Resources/CustomizationAccentIcons.plist</key>
 		<data>
-		fZNAFzxPeon4F9Gp0x9NXIcwKiA=
+		OxeCX+LZyyPisUb7gFRvsUoEvnU=
 		</data>
 		<key>Resources/CustomizationColors.plist</key>
 		<data>
@@ -42,27 +42,27 @@
 		</data>
 		<key>Resources/CustomizationIconList.plist</key>
 		<data>
-		5h+SUVQUK2ZLoqkQXUURC1HTAhQ=
+		+CkvhXyGg5GdNyGGUoeaGq0Nhoo=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 2.mom</key>
 		<data>
-		NKEuPFqqYIAZ2j/0pcbB2Ok2/o4=
+		gYdY8moevQ3HLlnmW2vXMwrJdCY=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 3.mom</key>
 		<data>
-		J9mRUGRwrSmuEaHCYQFHUAhnsvk=
+		sh5eOyx9CkE8QbsvFlJWLDU8ReI=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 4.mom</key>
 		<data>
-		bSk3SF2GNJip7uexXAR2FgvYbhg=
+		WTSFPZ001+Cw3c0se/AJG3R/9xw=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 5.mom</key>
 		<data>
-		kEMUnSugC2l/P99dVnlpmDPJc5I=
+		NL2CsvhSbejV3TGvc/M/AEiOm8k=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 6.mom</key>
 		<data>
-		k6GVGW9DSuilVX0uuQDBfiOuLgk=
+		WErepi0iSXWjoNFtSzuhW61eUHw=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 6.omo</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel.mom</key>
 		<data>
-		OMIWVdnRJ3igE/Vxi8JH8aH0wB4=
+		Ki/D4IxoP86keQ48OqF6Sl8/Cvg=
 		</data>
 		<key>Resources/CustomizationModel.momd/VersionInfo.plist</key>
 		<data>
@@ -82,27 +82,27 @@
 		</data>
 		<key>Resources/adjustments.png</key>
 		<data>
-		IYVfjUVRiEO67ZTdjPsSgjOCjqo=
+		bGCVzAAHh0QyxsZm6IllyedzjAo=
 		</data>
 		<key>Resources/asterisk.png</key>
 		<data>
-		iXMcuQXswv24FrLloWLod7T0mYk=
+		5IqlyZM4i7PivcllSW3Vzg3/aQs=
 		</data>
 		<key>Resources/blemish.png</key>
 		<data>
-		D7gqwgAvzbiqvDOH77q5/vz1LBo=
+		hbn38bR4acXASIGReSOG3U+G0Ic=
 		</data>
 		<key>Resources/blue_check.png</key>
 		<data>
-		QSib8LvN92Zk9bhiuskvd0LfqZ0=
+		76MsVTjuhVbvJzJ9xwObywzsc1E=
 		</data>
 		<key>Resources/bundle_purchase_button-active.png</key>
 		<data>
-		Xv0+dOPzph3zNArZHz0BKr2i4Eg=
+		rAKDYa/wFscI+nemvoAkD/fkc+0=
 		</data>
 		<key>Resources/bundle_purchase_button.png</key>
 		<data>
-		4fx7mP9h/AAtsyjTMjjSj5kIS9U=
+		+XkmRp5S/pO7YnaU2Gy4ngVFO1c=
 		</data>
 		<key>Resources/checkmark.png</key>
 		<data>
@@ -110,23 +110,19 @@
 		</data>
 		<key>Resources/chevron_blue_left.png</key>
 		<data>
-		ERuBCCjRvynZymEBi2XbxorksKI=
+		Z9ygyLtgeLcuZXVd9poW5SS0q/4=
 		</data>
 		<key>Resources/chevron_blue_right.png</key>
 		<data>
-		hZu2hnJZ0+y1omBV5D95qEdWZJc=
+		joFukisNYxlTlnxsfd6bU2G7mMA=
 		</data>
 		<key>Resources/cloud.png</key>
 		<data>
-		5SRL2O2G4yzfaTXij0mT8fBN0Eo=
-		</data>
-		<key>Resources/colorfix.png</key>
-		<data>
-		i650t/bvhLg4JodbMd4ZD+HV+rI=
+		orxyctaslnlXskfWOGJPlNOSueA=
 		</data>
 		<key>Resources/crop.png</key>
 		<data>
-		Et4j2Aw6t+OCWckPfHL9l9+tljk=
+		Wm8mRS6BI8MJVIZTkZkeIE0eblY=
 		</data>
 		<key>Resources/demoImage.png</key>
 		<data>
@@ -134,15 +130,23 @@
 		</data>
 		<key>Resources/draw.png</key>
 		<data>
-		1fm1wXRzQZnro8ldQLtNY+mO4bg=
+		vgSilb0iqyAXzqWZ4qVoTDKtFzI=
 		</data>
 		<key>Resources/effectDemo.png</key>
 		<data>
 		lH7X2kPZTJvKl+zSogYy79pd51Q=
 		</data>
+		<key>Resources/effectIntensityApply.png</key>
+		<data>
+		AlbjRghPazVaR8ntkyu7V4QuYzc=
+		</data>
+		<key>Resources/effectIntensityCancel.png</key>
+		<data>
+		eb0vR1rAJ8ro5GcB07659qsE7/U=
+		</data>
 		<key>Resources/effects.png</key>
 		<data>
-		RDR5JhKsnsxS3t/lQAmta8dkMMs=
+		I0eFrHGLxKRgD7D1/o5g2Zm21DE=
 		</data>
 		<key>Resources/en.lproj/Credits.rtf</key>
 		<dict>
@@ -166,82 +170,86 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			InsHojnAIp7Txmt1SbEhpZPgnUg=
+			7k7Euto4ZXiX1euhRrr9wOFwhWk=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Resources/enhance.png</key>
 		<data>
-		9qQdN63Yo2HlwneYqgmH3NDMsMY=
+		PIPa5PjuB1Zle/6wqKLFpX1HlNI=
 		</data>
 		<key>Resources/eraser.png</key>
 		<data>
-		2MvQEoHXEB+JoyMbiLvJKim/TxM=
+		uii+TtIAhe4h8Fp8UM1jT2+Wo+I=
 		</data>
 		<key>Resources/eraser_mask.png</key>
 		<data>
-		ZtGvDxS72gGAiYOAQd7AKpeNauM=
+		Vk5cPE1yT+WzFy8fmvcL5bM34wE=
 		</data>
 		<key>Resources/feedback.png</key>
 		<data>
-		la4DhHrvshU622+NYgW55mi/NTg=
+		A28uc2EJ7XCK5d0sUWMplzho77I=
 		</data>
 		<key>Resources/flip_h.png</key>
 		<data>
-		Mgv2lgvdyhbTFdS1v0v0/2qms7E=
+		a/j3aq+0qNVu/pJjjiIDcgeVBN8=
 		</data>
 		<key>Resources/flip_v.png</key>
 		<data>
-		Zvp4b8Rpe1EqM1DP+BTBXjvBGTk=
+		oHomd75hFxrkY1PkVJbHg3cwewQ=
 		</data>
 		<key>Resources/focus.png</key>
 		<data>
-		ggHubCpzs3BVBqgyY+3A/GQqhhg=
+		S8TllbC+xfQpa38S1I4c6PnPjcs=
 		</data>
 		<key>Resources/focus_linear.png</key>
 		<data>
-		+mJeN/RjbR2WcHyQwY9/8LM0wyE=
+		0DbVszKlhesOzTi63f5HMPRqCaA=
 		</data>
 		<key>Resources/focus_radial.png</key>
 		<data>
-		zvlIo2cFb0T4UoPHlyfYugQwJYU=
+		ZpAwWxch397me90K4UY+jhUu2ys=
 		</data>
 		<key>Resources/font_icon.png</key>
 		<data>
-		ADsctjmobp3X1yYba3ssgDkgRgg=
+		8UohxxXl7IWnV1xLTbfSmR++5jQ=
+		</data>
+		<key>Resources/food.png</key>
+		<data>
+		XP1asyWnw/YXGnP1rU1/tIyWhL8=
 		</data>
 		<key>Resources/frames.png</key>
 		<data>
-		7VODfcxL8wNND1oLdwgQYTeqcfg=
+		BGhd1KbsM21X3ZYBI3aN7WQ/6ts=
 		</data>
 		<key>Resources/get_more.png</key>
 		<data>
-		Cx1O9sJRHydGRCwVn44G5jNUOMs=
+		a7VsBEO7ZornJcpyNMBzbdNvcIU=
 		</data>
 		<key>Resources/get_more_mask.png</key>
 		<data>
-		LeZ8fCaHe+FTQkD8SW5p1CoYOGU=
+		6yhJznXonWum4b7LI/Usy9jxT5E=
 		</data>
 		<key>Resources/hidef.png</key>
 		<data>
-		u4ujOf+3G0g5ZWMn4yMVwTq9EtU=
-		</data>
-		<key>Resources/illuminate.png</key>
-		<data>
-		8IwzR1bx7PefnxW1nHlaD9ROo4k=
+		Z6vmo1wW4PUYYGof94pL5jaiXBc=
 		</data>
 		<key>Resources/keyboard.png</key>
 		<data>
-		6h7r8VUU1KPkA45wSRnTiigIbD8=
+		xkR3+HFE5dZPYm91iJRoQKhNDwQ=
 		</data>
 		<key>Resources/meme.png</key>
 		<data>
-		+tLbgSUyxGbMKvb7DNYUlB/As2g=
+		LfwWelJOk91Qr6YwBYCvmw+Dp3k=
+		</data>
+		<key>Resources/night.png</key>
+		<data>
+		cSNokoe1n97M9TFnIbqGg3hmPNg=
 		</data>
 		<key>Resources/orientation.png</key>
 		<data>
-		YMRuUaNShKLGA2twdWjS13BmFUY=
+		mqXcYfTc/MWDQnUbJcJ28BkpQEA=
 		</data>
 		<key>Resources/placeholder.jpg</key>
 		<data>
@@ -249,7 +257,7 @@
 		</data>
 		<key>Resources/pngcrush</key>
 		<data>
-		OCOkfdoyDc6YSNpERFtXoQXy8P0=
+		dlc0eb0WXX6XNT2OMfuMJAVE3zM=
 		</data>
 		<key>Resources/pngcrush_dir.sh</key>
 		<data>
@@ -261,51 +269,59 @@
 		</data>
 		<key>Resources/pngout</key>
 		<data>
-		IRKVyCW497VcME1XbiDgTtrALKk=
+		icrRM5Y5cyifouaXEhYnfyrTh68=
+		</data>
+		<key>Resources/portrait.png</key>
+		<data>
+		unRbmqyhDnYrx1TiyGYuijGIBr4=
 		</data>
 		<key>Resources/purchase_button-active.png</key>
 		<data>
-		4fx7mP9h/AAtsyjTMjjSj5kIS9U=
+		+XkmRp5S/pO7YnaU2Gy4ngVFO1c=
 		</data>
 		<key>Resources/purchase_button.png</key>
 		<data>
-		QbeMRdil88W9BBujmJUVFK6BeOg=
+		Yxry1nuIpEJ/SRY0+HoO37qLBt4=
 		</data>
 		<key>Resources/redeye.png</key>
 		<data>
-		loChUjhhZfz4CGmSzTyx90iu1cc=
+		hRxFz2ujW7klpeV8vIb8tkGQQc4=
 		</data>
 		<key>Resources/rotate_l.png</key>
 		<data>
-		MnO45Fd6ZvU1ABpYyLwrj+e7bSs=
+		2FIUH6LhqbfdrHtS2CY/f8R1T6U=
 		</data>
 		<key>Resources/rotate_r.png</key>
 		<data>
-		5ou34sZRh4B+tP3yDKr81txtWIQ=
+		+diMCptLZ6++WlbfC6ukaHaegF4=
+		</data>
+		<key>Resources/scenery.png</key>
+		<data>
+		jt0Bw0/Vffu5GnxIjZZCNpifzy8=
 		</data>
 		<key>Resources/share.png</key>
 		<data>
-		fWqw5pPV/oNfmvuUF9/0iyrbVek=
+		X67vP7xV6Nzmx1l3RDQIYSGWuXQ=
 		</data>
 		<key>Resources/sharpness.png</key>
 		<data>
-		i+Y7oadewTeU17LJSM7gAcWqhF8=
+		ZxB1C8BNXc2gaeRNQT+O0JAeCJI=
 		</data>
 		<key>Resources/splash.png</key>
 		<data>
-		HkWJPK2HMbCJJxoW1cJAzqoEJPQ=
+		v8DKNhRE6/1EhYSrvUphqiZFZNw=
 		</data>
 		<key>Resources/splash_eraser.png</key>
 		<data>
-		WHoZWVEBC2o3kffvtz1KKR+n4h0=
+		wJTt2HKiC1M0CU9CGejABnTVvEU=
 		</data>
 		<key>Resources/splash_free.png</key>
 		<data>
-		vDBQ0H9uEHf4vBvGteAGUNOuUGo=
+		sgZWFNTIeaQXQHr2fxECSlkxc1o=
 		</data>
 		<key>Resources/splash_smart.png</key>
 		<data>
-		zV41T3tfBl2Yj1GpSLY4AWyX15o=
+		kYqm0M978Z1BgQSpbstA9KyU1FM=
 		</data>
 		<key>Resources/statusBar.jpg</key>
 		<data>
@@ -313,46 +329,46 @@
 		</data>
 		<key>Resources/stickers.png</key>
 		<data>
-		v1wAfmhXF5IFiHT1kBn1Om5ny4s=
+		rYTyTeHOMsA9ApjnG0csvMqOfzs=
 		</data>
 		<key>Resources/text.png</key>
 		<data>
-		uaRuIfACPPOh8H/UIAX3iZzOjmU=
+		2nbgeEzqMHzQbsSQz9w6DLBbNOY=
 		</data>
 		<key>Resources/whiten.png</key>
 		<data>
-		4OC4Y1kdZAYjpQGZjBE9amPbJFk=
+		nYgy93zv9JHvgHTLn45g7S6kmFs=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Resources/AFColorInputViewController.nib</key>
 		<data>
-		RN0rg1ECRhKfwQy1ZBcZCbOmlEY=
+		/CVKtYR2od9hPNsgE7UpTLMFcyE=
 		</data>
 		<key>Resources/AFEditorPreviewViewController.nib</key>
 		<data>
-		o2aKKT1wo8eC46wHmjCC3uWKcXI=
+		GoeQWrtO7VuGwjnvU3W710rYKOI=
 		</data>
 		<key>Resources/AFEffectsView.nib</key>
 		<data>
-		4lUZDw32Y87oMEyY2osvkLs3n5c=
+		l5jUgPg8I7BuTuXKTKrbraPinUg=
 		</data>
 		<key>Resources/AFExportViewController.nib</key>
 		<data>
-		UQc59cXfXa0+pBWhQ0e8b4Z+q6g=
+		Ra7N07gPsAxHcmeHxiaRtofmRhU=
 		</data>
 		<key>Resources/AFMasterViewController.nib</key>
 		<data>
-		jxr2lzOKXXLoyGtm287sTAJjUaA=
+		7n4fUVAbw87mF59hHqLKwV5xvqg=
 		</data>
 		<key>Resources/AFToolSelectionView.nib</key>
 		<data>
-		ARJn7VOzf2XyN/DhiYusffx3d74=
+		zRt8irtO1sFnS/74oG/OoCb/YO0=
 		</data>
 		<key>Resources/CustomizationAccentIcons.plist</key>
 		<data>
-		fZNAFzxPeon4F9Gp0x9NXIcwKiA=
+		OxeCX+LZyyPisUb7gFRvsUoEvnU=
 		</data>
 		<key>Resources/CustomizationColors.plist</key>
 		<data>
@@ -364,27 +380,27 @@
 		</data>
 		<key>Resources/CustomizationIconList.plist</key>
 		<data>
-		5h+SUVQUK2ZLoqkQXUURC1HTAhQ=
+		+CkvhXyGg5GdNyGGUoeaGq0Nhoo=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 2.mom</key>
 		<data>
-		NKEuPFqqYIAZ2j/0pcbB2Ok2/o4=
+		gYdY8moevQ3HLlnmW2vXMwrJdCY=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 3.mom</key>
 		<data>
-		J9mRUGRwrSmuEaHCYQFHUAhnsvk=
+		sh5eOyx9CkE8QbsvFlJWLDU8ReI=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 4.mom</key>
 		<data>
-		bSk3SF2GNJip7uexXAR2FgvYbhg=
+		WTSFPZ001+Cw3c0se/AJG3R/9xw=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 5.mom</key>
 		<data>
-		kEMUnSugC2l/P99dVnlpmDPJc5I=
+		NL2CsvhSbejV3TGvc/M/AEiOm8k=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 6.mom</key>
 		<data>
-		k6GVGW9DSuilVX0uuQDBfiOuLgk=
+		WErepi0iSXWjoNFtSzuhW61eUHw=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 6.omo</key>
 		<data>
@@ -392,7 +408,7 @@
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel.mom</key>
 		<data>
-		OMIWVdnRJ3igE/Vxi8JH8aH0wB4=
+		Ki/D4IxoP86keQ48OqF6Sl8/Cvg=
 		</data>
 		<key>Resources/CustomizationModel.momd/VersionInfo.plist</key>
 		<data>
@@ -404,27 +420,27 @@
 		</data>
 		<key>Resources/adjustments.png</key>
 		<data>
-		IYVfjUVRiEO67ZTdjPsSgjOCjqo=
+		bGCVzAAHh0QyxsZm6IllyedzjAo=
 		</data>
 		<key>Resources/asterisk.png</key>
 		<data>
-		iXMcuQXswv24FrLloWLod7T0mYk=
+		5IqlyZM4i7PivcllSW3Vzg3/aQs=
 		</data>
 		<key>Resources/blemish.png</key>
 		<data>
-		D7gqwgAvzbiqvDOH77q5/vz1LBo=
+		hbn38bR4acXASIGReSOG3U+G0Ic=
 		</data>
 		<key>Resources/blue_check.png</key>
 		<data>
-		QSib8LvN92Zk9bhiuskvd0LfqZ0=
+		76MsVTjuhVbvJzJ9xwObywzsc1E=
 		</data>
 		<key>Resources/bundle_purchase_button-active.png</key>
 		<data>
-		Xv0+dOPzph3zNArZHz0BKr2i4Eg=
+		rAKDYa/wFscI+nemvoAkD/fkc+0=
 		</data>
 		<key>Resources/bundle_purchase_button.png</key>
 		<data>
-		4fx7mP9h/AAtsyjTMjjSj5kIS9U=
+		+XkmRp5S/pO7YnaU2Gy4ngVFO1c=
 		</data>
 		<key>Resources/checkmark.png</key>
 		<data>
@@ -432,23 +448,19 @@
 		</data>
 		<key>Resources/chevron_blue_left.png</key>
 		<data>
-		ERuBCCjRvynZymEBi2XbxorksKI=
+		Z9ygyLtgeLcuZXVd9poW5SS0q/4=
 		</data>
 		<key>Resources/chevron_blue_right.png</key>
 		<data>
-		hZu2hnJZ0+y1omBV5D95qEdWZJc=
+		joFukisNYxlTlnxsfd6bU2G7mMA=
 		</data>
 		<key>Resources/cloud.png</key>
 		<data>
-		5SRL2O2G4yzfaTXij0mT8fBN0Eo=
-		</data>
-		<key>Resources/colorfix.png</key>
-		<data>
-		i650t/bvhLg4JodbMd4ZD+HV+rI=
+		orxyctaslnlXskfWOGJPlNOSueA=
 		</data>
 		<key>Resources/crop.png</key>
 		<data>
-		Et4j2Aw6t+OCWckPfHL9l9+tljk=
+		Wm8mRS6BI8MJVIZTkZkeIE0eblY=
 		</data>
 		<key>Resources/demoImage.png</key>
 		<data>
@@ -456,15 +468,23 @@
 		</data>
 		<key>Resources/draw.png</key>
 		<data>
-		1fm1wXRzQZnro8ldQLtNY+mO4bg=
+		vgSilb0iqyAXzqWZ4qVoTDKtFzI=
 		</data>
 		<key>Resources/effectDemo.png</key>
 		<data>
 		lH7X2kPZTJvKl+zSogYy79pd51Q=
 		</data>
+		<key>Resources/effectIntensityApply.png</key>
+		<data>
+		AlbjRghPazVaR8ntkyu7V4QuYzc=
+		</data>
+		<key>Resources/effectIntensityCancel.png</key>
+		<data>
+		eb0vR1rAJ8ro5GcB07659qsE7/U=
+		</data>
 		<key>Resources/effects.png</key>
 		<data>
-		RDR5JhKsnsxS3t/lQAmta8dkMMs=
+		I0eFrHGLxKRgD7D1/o5g2Zm21DE=
 		</data>
 		<key>Resources/en.lproj/Credits.rtf</key>
 		<dict>
@@ -488,82 +508,86 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			InsHojnAIp7Txmt1SbEhpZPgnUg=
+			7k7Euto4ZXiX1euhRrr9wOFwhWk=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Resources/enhance.png</key>
 		<data>
-		9qQdN63Yo2HlwneYqgmH3NDMsMY=
+		PIPa5PjuB1Zle/6wqKLFpX1HlNI=
 		</data>
 		<key>Resources/eraser.png</key>
 		<data>
-		2MvQEoHXEB+JoyMbiLvJKim/TxM=
+		uii+TtIAhe4h8Fp8UM1jT2+Wo+I=
 		</data>
 		<key>Resources/eraser_mask.png</key>
 		<data>
-		ZtGvDxS72gGAiYOAQd7AKpeNauM=
+		Vk5cPE1yT+WzFy8fmvcL5bM34wE=
 		</data>
 		<key>Resources/feedback.png</key>
 		<data>
-		la4DhHrvshU622+NYgW55mi/NTg=
+		A28uc2EJ7XCK5d0sUWMplzho77I=
 		</data>
 		<key>Resources/flip_h.png</key>
 		<data>
-		Mgv2lgvdyhbTFdS1v0v0/2qms7E=
+		a/j3aq+0qNVu/pJjjiIDcgeVBN8=
 		</data>
 		<key>Resources/flip_v.png</key>
 		<data>
-		Zvp4b8Rpe1EqM1DP+BTBXjvBGTk=
+		oHomd75hFxrkY1PkVJbHg3cwewQ=
 		</data>
 		<key>Resources/focus.png</key>
 		<data>
-		ggHubCpzs3BVBqgyY+3A/GQqhhg=
+		S8TllbC+xfQpa38S1I4c6PnPjcs=
 		</data>
 		<key>Resources/focus_linear.png</key>
 		<data>
-		+mJeN/RjbR2WcHyQwY9/8LM0wyE=
+		0DbVszKlhesOzTi63f5HMPRqCaA=
 		</data>
 		<key>Resources/focus_radial.png</key>
 		<data>
-		zvlIo2cFb0T4UoPHlyfYugQwJYU=
+		ZpAwWxch397me90K4UY+jhUu2ys=
 		</data>
 		<key>Resources/font_icon.png</key>
 		<data>
-		ADsctjmobp3X1yYba3ssgDkgRgg=
+		8UohxxXl7IWnV1xLTbfSmR++5jQ=
+		</data>
+		<key>Resources/food.png</key>
+		<data>
+		XP1asyWnw/YXGnP1rU1/tIyWhL8=
 		</data>
 		<key>Resources/frames.png</key>
 		<data>
-		7VODfcxL8wNND1oLdwgQYTeqcfg=
+		BGhd1KbsM21X3ZYBI3aN7WQ/6ts=
 		</data>
 		<key>Resources/get_more.png</key>
 		<data>
-		Cx1O9sJRHydGRCwVn44G5jNUOMs=
+		a7VsBEO7ZornJcpyNMBzbdNvcIU=
 		</data>
 		<key>Resources/get_more_mask.png</key>
 		<data>
-		LeZ8fCaHe+FTQkD8SW5p1CoYOGU=
+		6yhJznXonWum4b7LI/Usy9jxT5E=
 		</data>
 		<key>Resources/hidef.png</key>
 		<data>
-		u4ujOf+3G0g5ZWMn4yMVwTq9EtU=
-		</data>
-		<key>Resources/illuminate.png</key>
-		<data>
-		8IwzR1bx7PefnxW1nHlaD9ROo4k=
+		Z6vmo1wW4PUYYGof94pL5jaiXBc=
 		</data>
 		<key>Resources/keyboard.png</key>
 		<data>
-		6h7r8VUU1KPkA45wSRnTiigIbD8=
+		xkR3+HFE5dZPYm91iJRoQKhNDwQ=
 		</data>
 		<key>Resources/meme.png</key>
 		<data>
-		+tLbgSUyxGbMKvb7DNYUlB/As2g=
+		LfwWelJOk91Qr6YwBYCvmw+Dp3k=
+		</data>
+		<key>Resources/night.png</key>
+		<data>
+		cSNokoe1n97M9TFnIbqGg3hmPNg=
 		</data>
 		<key>Resources/orientation.png</key>
 		<data>
-		YMRuUaNShKLGA2twdWjS13BmFUY=
+		mqXcYfTc/MWDQnUbJcJ28BkpQEA=
 		</data>
 		<key>Resources/placeholder.jpg</key>
 		<data>
@@ -571,7 +595,7 @@
 		</data>
 		<key>Resources/pngcrush</key>
 		<data>
-		OCOkfdoyDc6YSNpERFtXoQXy8P0=
+		dlc0eb0WXX6XNT2OMfuMJAVE3zM=
 		</data>
 		<key>Resources/pngcrush_dir.sh</key>
 		<data>
@@ -583,51 +607,59 @@
 		</data>
 		<key>Resources/pngout</key>
 		<data>
-		IRKVyCW497VcME1XbiDgTtrALKk=
+		icrRM5Y5cyifouaXEhYnfyrTh68=
+		</data>
+		<key>Resources/portrait.png</key>
+		<data>
+		unRbmqyhDnYrx1TiyGYuijGIBr4=
 		</data>
 		<key>Resources/purchase_button-active.png</key>
 		<data>
-		4fx7mP9h/AAtsyjTMjjSj5kIS9U=
+		+XkmRp5S/pO7YnaU2Gy4ngVFO1c=
 		</data>
 		<key>Resources/purchase_button.png</key>
 		<data>
-		QbeMRdil88W9BBujmJUVFK6BeOg=
+		Yxry1nuIpEJ/SRY0+HoO37qLBt4=
 		</data>
 		<key>Resources/redeye.png</key>
 		<data>
-		loChUjhhZfz4CGmSzTyx90iu1cc=
+		hRxFz2ujW7klpeV8vIb8tkGQQc4=
 		</data>
 		<key>Resources/rotate_l.png</key>
 		<data>
-		MnO45Fd6ZvU1ABpYyLwrj+e7bSs=
+		2FIUH6LhqbfdrHtS2CY/f8R1T6U=
 		</data>
 		<key>Resources/rotate_r.png</key>
 		<data>
-		5ou34sZRh4B+tP3yDKr81txtWIQ=
+		+diMCptLZ6++WlbfC6ukaHaegF4=
+		</data>
+		<key>Resources/scenery.png</key>
+		<data>
+		jt0Bw0/Vffu5GnxIjZZCNpifzy8=
 		</data>
 		<key>Resources/share.png</key>
 		<data>
-		fWqw5pPV/oNfmvuUF9/0iyrbVek=
+		X67vP7xV6Nzmx1l3RDQIYSGWuXQ=
 		</data>
 		<key>Resources/sharpness.png</key>
 		<data>
-		i+Y7oadewTeU17LJSM7gAcWqhF8=
+		ZxB1C8BNXc2gaeRNQT+O0JAeCJI=
 		</data>
 		<key>Resources/splash.png</key>
 		<data>
-		HkWJPK2HMbCJJxoW1cJAzqoEJPQ=
+		v8DKNhRE6/1EhYSrvUphqiZFZNw=
 		</data>
 		<key>Resources/splash_eraser.png</key>
 		<data>
-		WHoZWVEBC2o3kffvtz1KKR+n4h0=
+		wJTt2HKiC1M0CU9CGejABnTVvEU=
 		</data>
 		<key>Resources/splash_free.png</key>
 		<data>
-		vDBQ0H9uEHf4vBvGteAGUNOuUGo=
+		sgZWFNTIeaQXQHr2fxECSlkxc1o=
 		</data>
 		<key>Resources/splash_smart.png</key>
 		<data>
-		zV41T3tfBl2Yj1GpSLY4AWyX15o=
+		kYqm0M978Z1BgQSpbstA9KyU1FM=
 		</data>
 		<key>Resources/statusBar.jpg</key>
 		<data>
@@ -635,15 +667,15 @@
 		</data>
 		<key>Resources/stickers.png</key>
 		<data>
-		v1wAfmhXF5IFiHT1kBn1Om5ny4s=
+		rYTyTeHOMsA9ApjnG0csvMqOfzs=
 		</data>
 		<key>Resources/text.png</key>
 		<data>
-		uaRuIfACPPOh8H/UIAX3iZzOjmU=
+		2nbgeEzqMHzQbsSQz9w6DLBbNOY=
 		</data>
 		<key>Resources/whiten.png</key>
 		<data>
-		4OC4Y1kdZAYjpQGZjBE9amPbJFk=
+		nYgy93zv9JHvgHTLn45g7S6kmFs=
 		</data>
 	</dict>
 	<key>rules</key>
