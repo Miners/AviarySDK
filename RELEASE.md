@@ -2,15 +2,50 @@
 
 Subscribe to updates: [RSS](https://github.com/AviaryInc/Mobile-Feather-SDK-for-iOS/commits/master.atom) | [Twitter](http://twitter.com/aviarychangelog)
 
+## Version 4.4.0 
+* **IMPORTANT: The class prefix used in the SDK has changed from AF to AVY to address a symbol clash with a private framework introduced by Apple in iOS 8.2. All developers should upgrade to 4.4.0 to prevent any issues stemming from the symbol collision.**
+* New Vignette Tool
+* New Overlay Tool
+* Improved Draw Tool
+* New Lighting and Color Tools
+* Simplified High Resolution API
+* High Resolution output is now enabled by default for everyone!
+
+## Version 4.3.3 - October 9, 2014
+* Fixed bugs with the text tool on devices running iOS 8
+___
+
+## Version 4.3.2 - September 29, 2014
+* Fixed bug with the Aviary SDK Customizer app
+___
+
+## Version 4.3.1 - September 25, 2014
+* Added @3x assets to support iPhone 6 Plus
+* Fixed demo application to work natively on iPhone 6/6 Plus
+* Fixed crash for devices running iOS 6 when selecting an effect
+___
+
+## Version 4.3.0 - September 17, 2014
+* Intensity adjustment added to the effects tool
+* Small iOS 8 bug fixes
+___
+
+## Version 4.2.1 - August 13, 2014
+* Fixed bug with tool icon customization
+* Improved documentation
+___
+
 ## Version 4.2.0 - July 18, 2014
 * Return of the Meme tool
 * Undo/Redo Support!
 * Tutorials to better explain tool usage to users
 * Editor cancel confirmation alert when the user has unsaved work
 * Support for the en_GB localization
+___
 
 ## Version 4.1.1 - July 3, 2014
 * Temporarily removed Meme tool
+___
 
 ## Version 4.1.0 - May 30, 2014
 * Improved blemish tool and new blur tools
@@ -18,9 +53,11 @@ Subscribe to updates: [RSS](https://github.com/AviaryInc/Mobile-Feather-SDK-for-
 * Fixed bugs related to IAPs
 
 *IMPORANT:* If your integration has in-app purchases, you must input your API key and Secret before making any calls to `[AFPhotoEditorController inAppPurchaseManager]`.
+___
 
 ## Version 4.0.1 - April 10, 2014
 * Minor bug fixes for devices running iOS 6.
+___
 
 ## Version 4.0.0 - March 25, 2014
 * Finally: a brand new, optimized design!

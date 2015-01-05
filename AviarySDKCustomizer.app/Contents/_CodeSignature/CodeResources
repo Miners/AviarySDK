@@ -4,29 +4,37 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Resources/AFColorInputViewController.nib</key>
+		<key>Resources/AVYColorInputViewController.nib</key>
 		<data>
-		/CVKtYR2od9hPNsgE7UpTLMFcyE=
+		6s+Va8ITQ7OftB2QQ+D7ylt5Skc=
 		</data>
-		<key>Resources/AFEditorPreviewViewController.nib</key>
+		<key>Resources/AVYEditorPreviewViewController.nib</key>
 		<data>
-		GoeQWrtO7VuGwjnvU3W710rYKOI=
+		k4Jpo8oha+ZRB/8THPUm9/WTswg=
 		</data>
-		<key>Resources/AFEffectsView.nib</key>
+		<key>Resources/AVYEffectsView.nib</key>
 		<data>
-		l5jUgPg8I7BuTuXKTKrbraPinUg=
+		LCP6eP3ikXkQHj/TXk4XWGTo4pU=
 		</data>
-		<key>Resources/AFExportViewController.nib</key>
+		<key>Resources/AVYExportViewController.nib</key>
 		<data>
-		Ra7N07gPsAxHcmeHxiaRtofmRhU=
+		GCWVrBgvU52RZCQwH9Qh0q3gPR8=
 		</data>
-		<key>Resources/AFMasterViewController.nib</key>
+		<key>Resources/AVYMasterViewController.nib</key>
 		<data>
-		7n4fUVAbw87mF59hHqLKwV5xvqg=
+		zVcwV6eld3C/sPwRDq74DVI9MLE=
 		</data>
-		<key>Resources/AFToolSelectionView.nib</key>
+		<key>Resources/AVYToolSelectionView.nib</key>
 		<data>
-		zRt8irtO1sFnS/74oG/OoCb/YO0=
+		jyXHMl7Mgp9oG9oZkb8PoNKoOMw=
+		</data>
+		<key>Resources/AviarySDKType.plist</key>
+		<data>
+		1K27RPuFkuQQOCHGQ9+K9TlSRHg=
+		</data>
+		<key>Resources/Creative-SDK-Customizer.icns</key>
+		<data>
+		/LO4a/q9WapcS6cADd8VyB5GRPA=
 		</data>
 		<key>Resources/CustomizationAccentIcons.plist</key>
 		<data>
@@ -42,27 +50,27 @@
 		</data>
 		<key>Resources/CustomizationIconList.plist</key>
 		<data>
-		+CkvhXyGg5GdNyGGUoeaGq0Nhoo=
+		KfadK5liJTQyvzDsJJeCM3InfSw=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 2.mom</key>
 		<data>
-		gYdY8moevQ3HLlnmW2vXMwrJdCY=
+		2IE56jiQf6i9WG325KEeGlrLy8w=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 3.mom</key>
 		<data>
-		sh5eOyx9CkE8QbsvFlJWLDU8ReI=
+		c3mrjpDW2sNCJ5KlY/FmBLTAKo8=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 4.mom</key>
 		<data>
-		WTSFPZ001+Cw3c0se/AJG3R/9xw=
+		7WfXrslVBa+Pd9+vWZlF9eAdjgs=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 5.mom</key>
 		<data>
-		NL2CsvhSbejV3TGvc/M/AEiOm8k=
+		FzvVTOJ0MdIxZV9Qx+raBhpuRGg=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 6.mom</key>
 		<data>
-		WErepi0iSXWjoNFtSzuhW61eUHw=
+		fkxfvwUsu66sWnakoJ/azN0W3DA=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 6.omo</key>
 		<data>
@@ -70,7 +78,7 @@
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel.mom</key>
 		<data>
-		Ki/D4IxoP86keQ48OqF6Sl8/Cvg=
+		Zl8/B5J1oxobxCk6MP8jsUgKVvw=
 		</data>
 		<key>Resources/CustomizationModel.momd/VersionInfo.plist</key>
 		<data>
@@ -78,11 +86,7 @@
 		</data>
 		<key>Resources/SDK-Customizer.icns</key>
 		<data>
-		oP3w+tbORuDZLOylikO96bDrstY=
-		</data>
-		<key>Resources/adjustments.png</key>
-		<data>
-		bGCVzAAHh0QyxsZm6IllyedzjAo=
+		OJBFgB2agRgP7dvgM4FyFsDWb+0=
 		</data>
 		<key>Resources/asterisk.png</key>
 		<data>
@@ -120,6 +124,10 @@
 		<data>
 		orxyctaslnlXskfWOGJPlNOSueA=
 		</data>
+		<key>Resources/color.png</key>
+		<data>
+		BJ4GNazNYC2PxSzgRSQnqSp4km0=
+		</data>
 		<key>Resources/crop.png</key>
 		<data>
 		Wm8mRS6BI8MJVIZTkZkeIE0eblY=
@@ -146,7 +154,7 @@
 		</data>
 		<key>Resources/effects.png</key>
 		<data>
-		I0eFrHGLxKRgD7D1/o5g2Zm21DE=
+		dfQewYj27TclI4jHQ9RjF7e1j0M=
 		</data>
 		<key>Resources/en.lproj/Credits.rtf</key>
 		<dict>
@@ -170,7 +178,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7k7Euto4ZXiX1euhRrr9wOFwhWk=
+			JzD/JRJpvzFt6czHBLaJdge9UPc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -186,10 +194,6 @@
 		<key>Resources/eraser_mask.png</key>
 		<data>
 		Vk5cPE1yT+WzFy8fmvcL5bM34wE=
-		</data>
-		<key>Resources/feedback.png</key>
-		<data>
-		A28uc2EJ7XCK5d0sUWMplzho77I=
 		</data>
 		<key>Resources/flip_h.png</key>
 		<data>
@@ -239,6 +243,10 @@
 		<data>
 		xkR3+HFE5dZPYm91iJRoQKhNDwQ=
 		</data>
+		<key>Resources/lighting.png</key>
+		<data>
+		bGCVzAAHh0QyxsZm6IllyedzjAo=
+		</data>
 		<key>Resources/meme.png</key>
 		<data>
 		LfwWelJOk91Qr6YwBYCvmw+Dp3k=
@@ -251,13 +259,17 @@
 		<data>
 		mqXcYfTc/MWDQnUbJcJ28BkpQEA=
 		</data>
+		<key>Resources/overlays.png</key>
+		<data>
+		gUoRi/HZ1Not9mNUTNauildtups=
+		</data>
 		<key>Resources/placeholder.jpg</key>
 		<data>
 		/MO/lAnIVXhCDpPNBDAEkIbG4cs=
 		</data>
 		<key>Resources/pngcrush</key>
 		<data>
-		dlc0eb0WXX6XNT2OMfuMJAVE3zM=
+		MV+awHuebx0X28fay3pNk0q1xZI=
 		</data>
 		<key>Resources/pngcrush_dir.sh</key>
 		<data>
@@ -269,7 +281,7 @@
 		</data>
 		<key>Resources/pngout</key>
 		<data>
-		icrRM5Y5cyifouaXEhYnfyrTh68=
+		CGwUwwfmK8QxaQSPpR5hjYejbfs=
 		</data>
 		<key>Resources/portrait.png</key>
 		<data>
@@ -333,7 +345,11 @@
 		</data>
 		<key>Resources/text.png</key>
 		<data>
-		2nbgeEzqMHzQbsSQz9w6DLBbNOY=
+		vYKYbapVOMHw1kOdOHhNmsrJwM0=
+		</data>
+		<key>Resources/vignette.png</key>
+		<data>
+		xWbh506GhmmfoHRlSfxCUn1Awb0=
 		</data>
 		<key>Resources/whiten.png</key>
 		<data>
@@ -342,29 +358,37 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Resources/AFColorInputViewController.nib</key>
+		<key>Resources/AVYColorInputViewController.nib</key>
 		<data>
-		/CVKtYR2od9hPNsgE7UpTLMFcyE=
+		6s+Va8ITQ7OftB2QQ+D7ylt5Skc=
 		</data>
-		<key>Resources/AFEditorPreviewViewController.nib</key>
+		<key>Resources/AVYEditorPreviewViewController.nib</key>
 		<data>
-		GoeQWrtO7VuGwjnvU3W710rYKOI=
+		k4Jpo8oha+ZRB/8THPUm9/WTswg=
 		</data>
-		<key>Resources/AFEffectsView.nib</key>
+		<key>Resources/AVYEffectsView.nib</key>
 		<data>
-		l5jUgPg8I7BuTuXKTKrbraPinUg=
+		LCP6eP3ikXkQHj/TXk4XWGTo4pU=
 		</data>
-		<key>Resources/AFExportViewController.nib</key>
+		<key>Resources/AVYExportViewController.nib</key>
 		<data>
-		Ra7N07gPsAxHcmeHxiaRtofmRhU=
+		GCWVrBgvU52RZCQwH9Qh0q3gPR8=
 		</data>
-		<key>Resources/AFMasterViewController.nib</key>
+		<key>Resources/AVYMasterViewController.nib</key>
 		<data>
-		7n4fUVAbw87mF59hHqLKwV5xvqg=
+		zVcwV6eld3C/sPwRDq74DVI9MLE=
 		</data>
-		<key>Resources/AFToolSelectionView.nib</key>
+		<key>Resources/AVYToolSelectionView.nib</key>
 		<data>
-		zRt8irtO1sFnS/74oG/OoCb/YO0=
+		jyXHMl7Mgp9oG9oZkb8PoNKoOMw=
+		</data>
+		<key>Resources/AviarySDKType.plist</key>
+		<data>
+		1K27RPuFkuQQOCHGQ9+K9TlSRHg=
+		</data>
+		<key>Resources/Creative-SDK-Customizer.icns</key>
+		<data>
+		/LO4a/q9WapcS6cADd8VyB5GRPA=
 		</data>
 		<key>Resources/CustomizationAccentIcons.plist</key>
 		<data>
@@ -380,27 +404,27 @@
 		</data>
 		<key>Resources/CustomizationIconList.plist</key>
 		<data>
-		+CkvhXyGg5GdNyGGUoeaGq0Nhoo=
+		KfadK5liJTQyvzDsJJeCM3InfSw=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 2.mom</key>
 		<data>
-		gYdY8moevQ3HLlnmW2vXMwrJdCY=
+		2IE56jiQf6i9WG325KEeGlrLy8w=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 3.mom</key>
 		<data>
-		sh5eOyx9CkE8QbsvFlJWLDU8ReI=
+		c3mrjpDW2sNCJ5KlY/FmBLTAKo8=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 4.mom</key>
 		<data>
-		WTSFPZ001+Cw3c0se/AJG3R/9xw=
+		7WfXrslVBa+Pd9+vWZlF9eAdjgs=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 5.mom</key>
 		<data>
-		NL2CsvhSbejV3TGvc/M/AEiOm8k=
+		FzvVTOJ0MdIxZV9Qx+raBhpuRGg=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 6.mom</key>
 		<data>
-		WErepi0iSXWjoNFtSzuhW61eUHw=
+		fkxfvwUsu66sWnakoJ/azN0W3DA=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 6.omo</key>
 		<data>
@@ -408,7 +432,7 @@
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel.mom</key>
 		<data>
-		Ki/D4IxoP86keQ48OqF6Sl8/Cvg=
+		Zl8/B5J1oxobxCk6MP8jsUgKVvw=
 		</data>
 		<key>Resources/CustomizationModel.momd/VersionInfo.plist</key>
 		<data>
@@ -416,11 +440,7 @@
 		</data>
 		<key>Resources/SDK-Customizer.icns</key>
 		<data>
-		oP3w+tbORuDZLOylikO96bDrstY=
-		</data>
-		<key>Resources/adjustments.png</key>
-		<data>
-		bGCVzAAHh0QyxsZm6IllyedzjAo=
+		OJBFgB2agRgP7dvgM4FyFsDWb+0=
 		</data>
 		<key>Resources/asterisk.png</key>
 		<data>
@@ -458,6 +478,10 @@
 		<data>
 		orxyctaslnlXskfWOGJPlNOSueA=
 		</data>
+		<key>Resources/color.png</key>
+		<data>
+		BJ4GNazNYC2PxSzgRSQnqSp4km0=
+		</data>
 		<key>Resources/crop.png</key>
 		<data>
 		Wm8mRS6BI8MJVIZTkZkeIE0eblY=
@@ -484,7 +508,7 @@
 		</data>
 		<key>Resources/effects.png</key>
 		<data>
-		I0eFrHGLxKRgD7D1/o5g2Zm21DE=
+		dfQewYj27TclI4jHQ9RjF7e1j0M=
 		</data>
 		<key>Resources/en.lproj/Credits.rtf</key>
 		<dict>
@@ -508,7 +532,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7k7Euto4ZXiX1euhRrr9wOFwhWk=
+			JzD/JRJpvzFt6czHBLaJdge9UPc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -524,10 +548,6 @@
 		<key>Resources/eraser_mask.png</key>
 		<data>
 		Vk5cPE1yT+WzFy8fmvcL5bM34wE=
-		</data>
-		<key>Resources/feedback.png</key>
-		<data>
-		A28uc2EJ7XCK5d0sUWMplzho77I=
 		</data>
 		<key>Resources/flip_h.png</key>
 		<data>
@@ -577,6 +597,10 @@
 		<data>
 		xkR3+HFE5dZPYm91iJRoQKhNDwQ=
 		</data>
+		<key>Resources/lighting.png</key>
+		<data>
+		bGCVzAAHh0QyxsZm6IllyedzjAo=
+		</data>
 		<key>Resources/meme.png</key>
 		<data>
 		LfwWelJOk91Qr6YwBYCvmw+Dp3k=
@@ -589,13 +613,17 @@
 		<data>
 		mqXcYfTc/MWDQnUbJcJ28BkpQEA=
 		</data>
+		<key>Resources/overlays.png</key>
+		<data>
+		gUoRi/HZ1Not9mNUTNauildtups=
+		</data>
 		<key>Resources/placeholder.jpg</key>
 		<data>
 		/MO/lAnIVXhCDpPNBDAEkIbG4cs=
 		</data>
 		<key>Resources/pngcrush</key>
 		<data>
-		dlc0eb0WXX6XNT2OMfuMJAVE3zM=
+		MV+awHuebx0X28fay3pNk0q1xZI=
 		</data>
 		<key>Resources/pngcrush_dir.sh</key>
 		<data>
@@ -607,7 +635,7 @@
 		</data>
 		<key>Resources/pngout</key>
 		<data>
-		icrRM5Y5cyifouaXEhYnfyrTh68=
+		CGwUwwfmK8QxaQSPpR5hjYejbfs=
 		</data>
 		<key>Resources/portrait.png</key>
 		<data>
@@ -671,7 +699,11 @@
 		</data>
 		<key>Resources/text.png</key>
 		<data>
-		2nbgeEzqMHzQbsSQz9w6DLBbNOY=
+		vYKYbapVOMHw1kOdOHhNmsrJwM0=
+		</data>
+		<key>Resources/vignette.png</key>
+		<data>
+		xWbh506GhmmfoHRlSfxCUn1Awb0=
 		</data>
 		<key>Resources/whiten.png</key>
 		<data>
