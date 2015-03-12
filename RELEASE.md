@@ -2,6 +2,26 @@
 
 Subscribe to updates: [RSS](https://github.com/AviaryInc/Mobile-Feather-SDK-for-iOS/commits/master.atom) | [Twitter](http://twitter.com/aviarychangelog)
 
+## Version 4.4.5
+* Fixed bug causing crash when handling purchases
+___
+
+## Version 4.4.4
+* Improved translations
+___
+
+## Version 4.4.3
+* Fixed bug causing IAPs to not complete purchasing
+___
+
+## Version 4.4.2
+* Fixed bug causing duplicate symbols when building for the 32-bit simulator.
+___
+
+## Version 4.4.1
+* The draw and straighten tools have been disabled on devices running iOS 6
+___
+
 ## Version 4.4.0 
 * **IMPORTANT: The class prefix used in the SDK has changed from AF to AVY to address a symbol clash with a private framework introduced by Apple in iOS 8.2. All developers should upgrade to 4.4.0 to prevent any issues stemming from the symbol collision.**
 * New Vignette Tool
@@ -10,6 +30,7 @@ Subscribe to updates: [RSS](https://github.com/AviaryInc/Mobile-Feather-SDK-for-
 * New Lighting and Color Tools
 * Simplified High Resolution API
 * High Resolution output is now enabled by default for everyone!
+___ 
 
 ## Version 4.3.3 - October 9, 2014
 * Fixed bugs with the text tool on devices running iOS 8

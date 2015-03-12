@@ -28,10 +28,6 @@
 		<data>
 		jyXHMl7Mgp9oG9oZkb8PoNKoOMw=
 		</data>
-		<key>Resources/AviarySDKType.plist</key>
-		<data>
-		1K27RPuFkuQQOCHGQ9+K9TlSRHg=
-		</data>
 		<key>Resources/Creative-SDK-Customizer.icns</key>
 		<data>
 		/LO4a/q9WapcS6cADd8VyB5GRPA=
@@ -50,7 +46,7 @@
 		</data>
 		<key>Resources/CustomizationIconList.plist</key>
 		<data>
-		KfadK5liJTQyvzDsJJeCM3InfSw=
+		cVFd7SmWmSeEU3uzsXw6SPpzoLw=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 2.mom</key>
 		<data>
@@ -99,6 +95,10 @@
 		<key>Resources/blue_check.png</key>
 		<data>
 		76MsVTjuhVbvJzJ9xwObywzsc1E=
+		</data>
+		<key>Resources/blur.png</key>
+		<data>
+		29XK9edceAoIAKFPjasc4DenFcU=
 		</data>
 		<key>Resources/bundle_purchase_button-active.png</key>
 		<data>
@@ -269,7 +269,7 @@
 		</data>
 		<key>Resources/pngcrush</key>
 		<data>
-		MV+awHuebx0X28fay3pNk0q1xZI=
+		Tv7Jw/p2nrYoSISMZuZURUgpi/k=
 		</data>
 		<key>Resources/pngcrush_dir.sh</key>
 		<data>
@@ -281,7 +281,7 @@
 		</data>
 		<key>Resources/pngout</key>
 		<data>
-		CGwUwwfmK8QxaQSPpR5hjYejbfs=
+		3GXg6fMQlfFNpxmgUHpAkxhFOvQ=
 		</data>
 		<key>Resources/portrait.png</key>
 		<data>
@@ -382,10 +382,6 @@
 		<data>
 		jyXHMl7Mgp9oG9oZkb8PoNKoOMw=
 		</data>
-		<key>Resources/AviarySDKType.plist</key>
-		<data>
-		1K27RPuFkuQQOCHGQ9+K9TlSRHg=
-		</data>
 		<key>Resources/Creative-SDK-Customizer.icns</key>
 		<data>
 		/LO4a/q9WapcS6cADd8VyB5GRPA=
@@ -404,7 +400,7 @@
 		</data>
 		<key>Resources/CustomizationIconList.plist</key>
 		<data>
-		KfadK5liJTQyvzDsJJeCM3InfSw=
+		cVFd7SmWmSeEU3uzsXw6SPpzoLw=
 		</data>
 		<key>Resources/CustomizationModel.momd/CustomizationModel 2.mom</key>
 		<data>
@@ -453,6 +449,10 @@
 		<key>Resources/blue_check.png</key>
 		<data>
 		76MsVTjuhVbvJzJ9xwObywzsc1E=
+		</data>
+		<key>Resources/blur.png</key>
+		<data>
+		29XK9edceAoIAKFPjasc4DenFcU=
 		</data>
 		<key>Resources/bundle_purchase_button-active.png</key>
 		<data>
@@ -623,7 +623,7 @@
 		</data>
 		<key>Resources/pngcrush</key>
 		<data>
-		MV+awHuebx0X28fay3pNk0q1xZI=
+		Tv7Jw/p2nrYoSISMZuZURUgpi/k=
 		</data>
 		<key>Resources/pngcrush_dir.sh</key>
 		<data>
@@ -635,7 +635,7 @@
 		</data>
 		<key>Resources/pngout</key>
 		<data>
-		CGwUwwfmK8QxaQSPpR5hjYejbfs=
+		3GXg6fMQlfFNpxmgUHpAkxhFOvQ=
 		</data>
 		<key>Resources/portrait.png</key>
 		<data>
